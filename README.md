@@ -10,6 +10,9 @@
 
 A production-ready REST API for managing parking lots, floors, spots, and vehicle parking operations. Built with Spring Boot and PostgreSQL following a layered architecture pattern.
 
+<img width="2048" height="1117" alt="Parking Lot Management System" src="https://github.com/user-attachments/assets/f1e7e470-9dba-431b-983e-dce0a49f360b" />
+
+
 ---
 
 ## Table of Contents
